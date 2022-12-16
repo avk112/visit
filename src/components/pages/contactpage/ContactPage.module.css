@@ -150,13 +150,13 @@
     }
 
     .contactPage__infoBlock__contacts__item__titlesBlock__title{
-        font-size: 2.85em;
+        font-size: 4em;
         line-height: 1.2em;
     }
 
     .contactPage__infoBlock__contacts__item__titlesBlock__subtitle {
-        font-size: 2.5em;
-        line-height: 1.8;
+        font-size: 3em;
+        line-height: 1.8em;
     }
 
     .contactPage__infoBlock__form {
@@ -169,7 +169,7 @@
     }
 
     .contactPage__infoBlock__form__inputsBlock input {
-        font-size: 2.325em;
+        font-size: 3em;
         line-height: 1.2em;
     }
 
@@ -178,13 +178,13 @@
     }
 
     .contactPage__infoBlock__form__textareaBlock textarea {
-        font-size: 2.235em;
+        font-size: 3em;
         line-height: 1.2em;
         height: 12em;
     }
 
     .contactPage__infoBlock__form__textareaBlock button {
-        font-size: 2.5em;
+        font-size: 3em;
         line-height: 1.2em;
     }
 }

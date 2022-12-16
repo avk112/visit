@@ -105,23 +105,23 @@
     }
 
     .trainersPage__row__item__rotationBlock__background__title{
-        font-size: 4.2em;
+        font-size: 4.7em;
         line-height: 1.2em;
     }
 
     .trainersPage__row__item__rotationBlock__background p {
-        font-size: 4em;
-        line-height: 1.625em;
+        font-size: 4.5em;
+        line-height: 1.425em;
     }
 
     .trainersPage__row__item__title{
-        font-size: 3.225em;
+        font-size: 3.825em;
         margin: 5% 0 0 0;
         color: #0093df;
     }
 
     .trainersPage__row__item__subtitle {
-         font-size: 2.5em;
+         font-size: 3em;
          line-height: 1.2em;
          margin: 0;
      }

@@ -95,7 +95,7 @@
 @media screen and (max-device-width: 540px) {
 
     .feedbackArea__row{
-        padding-bottom: 95%;
+        padding-bottom: 110%;
     }
 
     .feedbackArea__row__container__item{
@@ -103,17 +103,17 @@
     }
 
     .feedbackArea__row__container__item p {
-        font-size: 2.5em;
+        font-size: 3em;
         line-height: 1.625em;
     }
 
     .feedbackArea__row__container__item__title {
-        font-size: 3.225em;
+        font-size: 3.825em;
         line-height: 1.625em;
     }
 
     .feedbackArea__row__container__item__subtitle {
-        font-size: 2.5em;
+        font-size: 3em;
         line-height: 1.625em;
     }
 

@@ -112,12 +112,12 @@
      flex-direction: column;
  }
     .singleBlock p {
-        font-size: 2.5em;
-        line-height: 1.625em;
+        font-size: 3.5em;
+        line-height: 1.825em;
 
     }
     .singleBlock__title {
-        font-size: 5em;
+        font-size: 5.5em;
         line-height: 1.625em;
     }
 
@@ -133,17 +133,16 @@
     }
 
     .singleBlock__commentsTitle {
-        font-size: 2.93em;
+        font-size: 4em;
         line-height: 1.2em;
     }
 
     .singleBlock__commentsBlock__title {
-        font-size: 2.075em;
+        font-size: 3.5em;
         line-height: 1.2em;
     }
 
     .singleBlock__commentsForm {
-
         width: 100%;
         box-sizing: border-box;
     }
