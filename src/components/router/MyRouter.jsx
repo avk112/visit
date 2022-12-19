@@ -1,5 +1,5 @@
 import React from 'react';
-import {Routes, Route} from "react-router-dom";
+import {Routes, Route, Navigate} from "react-router-dom";
 import Layout from "../Layout";
 import HomePage from "../pages/homepage/HomePage";
 import AboutPage from "../pages/about/AboutPage";
@@ -22,6 +22,7 @@ const MyRouter = () => {
                     <Route path=":id" element={<SingleBlog/>}/>
                 </Route>
                 <Route path="contact" element={<ContactPage/>}/>
+                <Route path="*" element={<Navigate replace to="/"/>}/>
 
             </Route>
         </Routes>
